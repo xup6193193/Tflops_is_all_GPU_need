@@ -1,6 +1,6 @@
 # Tflops_is_all_GPU_need
 
-##關於Tflops_is_all_GPU_need的使用說明
+## 關於Tflops_is_all_GPU_need的使用說明
 
 基本上只要是NVIDIA的顯示卡都能運行，要先安裝合適的CUDA，運行時間約5~15分鐘，注意記憶體是否夠用，如果記憶體不夠可以適時的調低參數。
 
